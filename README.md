@@ -25,3 +25,7 @@ The [Steps_Followed.docx](Steps_Followed.docx) file provides a comprehensive, st
 
 **Results**
 The pipeline successfully cleaned a noisy raw scRNA-seq dataset, isolating high quality, viable cells. The combination of PCA, UMAP, and Leiden Clustering effectively grouped the Human PBMCs (Peripheral Blood Mononuclear Cells).
+
+**Steps to run the model**
+1. Download the Streamlit folder and set its directory location in `Terminal`. Ensure streamlit is installed or manually install it using `pip install streamlit`.
+2. Run the Python script in Terminal using the command `streamlit run 
