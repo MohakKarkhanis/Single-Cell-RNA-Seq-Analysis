@@ -28,4 +28,4 @@ The pipeline successfully cleaned a noisy raw scRNA-seq dataset, isolating high 
 
 **Steps to run the model**
 1. Download the Streamlit folder and set its directory location in `Terminal`. Ensure streamlit is installed or manually install it using `pip install streamlit`.
-2. Run the Python script in Terminal using the command `streamlit run 
+2. Run the Python script in Terminal using the command `streamlit run rna_analysis.py`.
