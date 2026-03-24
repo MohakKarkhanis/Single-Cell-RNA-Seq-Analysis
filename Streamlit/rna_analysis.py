@@ -1,12 +1,15 @@
+#Importing Libraries
 import streamlit as st
 import scanpy as sc
 import os
 import matplotlib.pyplot as plt
 import pandas as pd
 
+#Setting up the Path
 model_dir = "Streamlit"
 DATA_PATH = os.path.join(model_dir, "adata.h5ad")
 
+#Page Setup
 st.set_page_config(layout="wide", page_title="scRNA-Seq Explorer")
 st.title("Single-Cell RNA-Seq Data Explorer")
 
