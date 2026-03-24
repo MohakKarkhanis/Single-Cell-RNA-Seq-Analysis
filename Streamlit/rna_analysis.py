@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""RNA_Analysis.ipynb"""
-
 import streamlit as st
 import scanpy as sc
 import os
