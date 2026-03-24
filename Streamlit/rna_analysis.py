@@ -7,6 +7,7 @@ import os
 import matplotlib.pyplot as plt
 import pandas as pd
 
+model_dir = "Streamlit"
 DATA_PATH = "C:/Users/mohak/Desktop/adata.h5ad"
 
 st.set_page_config(layout="wide", page_title="scRNA-Seq Explorer")
