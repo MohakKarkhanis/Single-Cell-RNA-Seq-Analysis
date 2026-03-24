@@ -1,4 +1,3 @@
 scanpy
 matplotlib
-os
 pandas
