@@ -1,4 +1,4 @@
 scanpy
-matplotlib.pyplot
+matplotlib
 os
 pandas
