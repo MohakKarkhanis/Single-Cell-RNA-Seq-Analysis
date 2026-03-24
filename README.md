@@ -1,5 +1,5 @@
-# Project-4
-Single Cell RNA-Seq Analysis & Cell Type Annotation
+Single Cell RNA sequence Analysis: Human Peripeharal Blood Mononuclear Cells
+
 Single cell RNA sequence analysis is the process wherein gene expression profiles of each individual cell is analysed in depth which helps us to later classify them into clusters. These clusters represent identically functioning cells like for examples cells involved in sugar metabolism, water regulatory genes etc. are grouped in an individual cluster. 
 
 This repository contains the code and methodology for processing, analysing, and clustering Single-Cell RNA Sequencing (scRNA-seq) data to identify distinct cellular populations based on their gene expression profiles.
