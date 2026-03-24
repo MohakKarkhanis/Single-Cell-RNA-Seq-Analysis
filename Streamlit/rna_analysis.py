@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 model_dir = "Streamlit"
-DATA_PATH = os.path.join(model_dir, "")
+DATA_PATH = os.path.join(model_dir, "adata.h5ad")
 
 st.set_page_config(layout="wide", page_title="scRNA-Seq Explorer")
 st.title("Single-Cell RNA-Seq Data Explorer")
