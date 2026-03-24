@@ -1,1 +1,4 @@
 scanpy
+matplotlib.pyplot
+os
+pandas
