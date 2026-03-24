@@ -1,11 +1,11 @@
-#Importing Libraries
+#Libraries
 import streamlit as st
 import scanpy as sc
 import os
 import matplotlib.pyplot as plt
 import pandas as pd
 
-#Setting up the Path
+#Path
 model_dir = "Streamlit"
 DATA_PATH = os.path.join(model_dir, "adata.h5ad")
 
